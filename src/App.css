@@ -1,0 +1,86 @@
+#root {
+  text-align:start;
+}
+
+h4{
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+p{
+  color: rgb(9, 63, 9);
+  font-size: 17px;
+}
+
+.list-Category{
+  text-align: center;
+}
+.card1{
+  text-align: start;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  cursor: pointer;
+}
+
+.imgHome{
+  height: 250px;
+  object-fit: contain;
+}
+
+
+.size-input{
+  height: 50px;
+  margin-top: 2rem;
+}
+.img{
+  height: 450px;
+  object-fit: contain;
+}
+
+.listRelated{
+  margin-top: 3rem;
+  text-align: center;
+}
+
+.imgRelated{
+  height: 250px;
+  width: 16rem;
+  object-fit: contain;
+
+}
+
+.btn{
+  margin-top: 2rem;
+}
+
+.link{
+  text-decoration: none;
+  color: black;
+}
+
+.login{
+  position: relative;
+  margin-left: 20rem;
+  width: 600px;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 5px 5px 20px 1px rgba(69, 66, 66, 0.594);
+}
+
+.testData{
+  background-color: #95dec954;
+  padding: 1rem;
+  text-align: center;
+}
+
+.btnRate{
+  margin-top: 0rem;
+}
+
+
+footer{
+  margin-top: 3rem;
+  padding: 1rem;
+  background-color: #95dec9ba;
+  text-align: center;
+}
